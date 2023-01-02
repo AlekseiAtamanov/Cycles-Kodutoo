@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Cycles Kodutoo", "Cycles Kodutoo.pyproj", "{35EB5663-01C5-4F41-9DAD-9E629CD883C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35EB5663-01C5-4F41-9DAD-9E629CD883C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35EB5663-01C5-4F41-9DAD-9E629CD883C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FCE27EF-FFA3-4D21-9F7E-2F42491F4F73}
+	EndGlobalSection
+EndGlobal
